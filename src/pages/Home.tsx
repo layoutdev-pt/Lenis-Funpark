@@ -14,6 +14,7 @@ export default function Home() {
         <StatsSection />
         <FeaturesSection />
         <DigitalInviteSection />
+        
       </main>
       <Footer />
     </div>
